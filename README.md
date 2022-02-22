@@ -1,5 +1,5 @@
-### Hi there 👋, Gonçalo Caetano Seixas
-#### Web Developer
+## Gonçalo Caetano Seixas
+### Web Developer
 I'm Gonçalo from Portugal. I really enjoy learning languages and frameworks like React. 
 
 Skills: REACT / JS / HTML / CSS
