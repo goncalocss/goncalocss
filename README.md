@@ -10,7 +10,7 @@ Skills: REACT / JS / HTML / CSS
 - 📫 How to reach me: goncalocaetano2003@gmail.com 
 - ⚡ Fun fact: I like to play videogames 🎮 
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=pimps23&show_icons=true)  
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=pimps23&show_icons=true)
 
 
 
