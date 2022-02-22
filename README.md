@@ -52,8 +52,8 @@
 ## Connect with me:
 <p align="left">
 
-<a href = "https://twitter.com/gonaloseicas"><img src="https://img.icons8.com/fluent/48/000000/twitter.png"/></a>
-<a href = "https://www.instagram.com/goncalo_seixasss/"><img src="https://img.icons8.com/fluent/48/000000/instagram-new.png"/></a>
+<a href = "https://twitter.com/gonaloseicas"><img height="30" src="https://img.icons8.com/fluent/48/000000/twitter.png"/></a>
+<a href = "https://www.instagram.com/goncalo_seixasss/"><img height="30" src="https://img.icons8.com/fluent/48/000000/instagram-new.png"/></a>
 
 </p>
 
