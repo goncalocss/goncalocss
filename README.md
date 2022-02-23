@@ -4,7 +4,7 @@
 <h3 align="center">I'm a passionate Web Developer from Portugal.</h3>
 
 
-## 🙋‍♂️ About Me
+### 🙋‍♂️ About Me
 - 🔭 I’m currently working on a **Portfolio Website**
 
 - 🌱 I’m currently learning **React JS**
