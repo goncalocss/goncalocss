@@ -5,7 +5,6 @@
 
 
 ### 🙋‍♂️ About Me
-<br/>
 - 🔭 I’m currently working on a **Portfolio Website**
 
 - 🌱 I’m currently learning **React JS**
@@ -18,7 +17,6 @@
 <br/>
 
 ### 🚀 Languages and Tools:
-<br/>
 <p align="left"> 
     <a href="https://reactjs.org/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/react-native.png"/> </a>
     <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://img.icons8.com/color/48/000000/javascript.png"/> </a> 
@@ -42,7 +40,6 @@
 
 ### Connect with me:
 <p align="left">
-<br/>
 <a href = "https://www.instagram.com/goncalo_seixasss/"><img height="35" src="https://img.icons8.com/fluent/48/000000/instagram-new.png"/>
 <a href = "https://twitter.com/gonaloseicas"><img height="35" src="https://img.icons8.com/fluent/48/000000/twitter.png"/>
 
