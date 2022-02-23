@@ -6,6 +6,7 @@
 </br>
 
 ## 🙋‍♂️ About Me
+
 - 👨‍💻 I’m currently working on a **Portfolio Website**
 
 - 📖 I’m currently learning **React JS**
@@ -17,6 +18,7 @@
 <br/>
 
 ## 💻 Languages and Tools:
+
 <p align="left"> 
     <a href="https://reactjs.org/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/react-native.png"/> </a>
     <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://img.icons8.com/color/48/000000/javascript.png"/> </a> 
@@ -28,6 +30,7 @@
 <br/>
 
 ## 📊 My Github Stats
+
 <p align="center">
   <br/>
     <a href="https://github.com/pimps23/github-readme-stats"><img alt="Goncalo Github Stats" src="https://github-readme-stats.vercel.app/api?username=pimps23&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
@@ -36,7 +39,8 @@
 </p>
 
 ## 📱 Connect with me:
+
 <p align="left">
 <a href = "https://www.instagram.com/goncalo_seixasss/"><img height="35" src="https://img.icons8.com/fluent/48/000000/instagram-new.png"/>
-<a href = "https://twitter.com/gonaloseicas"><img height="35" src="https://img.icons8.com/fluent/48/000000/twitter.png"/>
+<a href = "https://twitter.com/gonaloseicas"><img height="35" src="https://img.icons8.com/fluent/48/000000/twitter.png"/> 
 </p>
