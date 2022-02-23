@@ -14,7 +14,6 @@
 - ⚡ Fun fact **I love to play videogames!**
 
 <br/>
-<br/>
 
 ## 🚀 Languages and Tools:
 <p align="left"> 
@@ -25,7 +24,6 @@
     <a href="https://getbootstrap.com" target="_blank"> <img src="https://img.icons8.com/color/48/000000/bootstrap.png"/> </a> 
 </p>
 
-<br/>
 <br/>
 
 ## 📊 My Github Stats
@@ -40,6 +38,4 @@
 <p align="left">
 <a href = "https://www.instagram.com/goncalo_seixasss/"><img height="35" src="https://img.icons8.com/fluent/48/000000/instagram-new.png"/>
 <a href = "https://twitter.com/gonaloseicas"><img height="35" src="https://img.icons8.com/fluent/48/000000/twitter.png"/>
-
 </p>
-
