@@ -30,7 +30,7 @@
 <br/>
 
 ## 📊 My Github Stats
-<p align="center"> 
+<p align="left"> 
 <br/>
     <a href="https://github.com/pimps23/github-readme-stats"><img alt="Goncalo Github Stats" src="https://github-readme-stats.vercel.app/api?username=pimps23&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
   <a href="https://github.com/pimps23/github-readme-stats"><img alt="Goncalo Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pimps23&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
