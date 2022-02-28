@@ -9,7 +9,7 @@
 
 - 👨‍💻 I’m currently working on a **Portfolio Website**
 
-- 📖 I’m currently learning **React JS**
+- 📖 I’m currently learning **Three.JS**
 
 - 📧 How to reach me: **goncalocaetano2003@gmail.com**
 
