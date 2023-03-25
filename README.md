@@ -1,8 +1,9 @@
 <a href="#"><img width="100%" height="auto" src="https://i.imgur.com/iXuL1HG.png" height="175px"/></a>
-
-<h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Gonçalo</h1>
-</br>
-<h3 align="center">I'm a Web Developer and Student from Portugal!</h3>
+<div id="user-content-toc">
+<ul>
+<summary align="center"><h1>Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Gonçalo Seixas</h1></summary>
+</ul>
+</div>
 </br>
 
 ## 🙋‍♂️ About Me
