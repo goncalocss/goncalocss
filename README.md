@@ -2,7 +2,7 @@
 
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Gonçalo</h1>
 </br>
-<h3 align="center">I'm a passionate Web Developer from Portugal.</h3>
+<h3 align="center">I'm a development and design student!</h3>
 </br>
 
 ## 🙋‍♂️ About Me
@@ -25,7 +25,14 @@
     <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/css3.png"/> </a> 
     <a href="https://getbootstrap.com" target="_blank"> <img src="https://img.icons8.com/color/48/000000/bootstrap.png"/> </a>
     <h6 align="left">Design</h6>
+    <a href="https://getbootstrap.com" target="_blank"> <img src="https://img.icons8.com/color/48/000000/adobe-illustrator.png"/> </a>
+    <a href="https://getbootstrap.com" target="_blank"> <img src="https://img.icons8.com/color/48/000000/figma.png"/> </a>
+    <h6 align="left">Photo</h6>
     <a href="https://getbootstrap.com" target="_blank"> <img src="https://img.icons8.com/color/48/000000/adobe-lightroom.png"/> </a>
+    <a href="https://getbootstrap.com" target="_blank"> <img src="https://img.icons8.com/color/48/000000/adobe-photoshop.png"/> </a>
+    <h6 align="left">Video</h6>
+    <a href="https://getbootstrap.com" target="_blank"> <img src="https://img.icons8.com/color/48/000000/davinci-resolve.png"/> </a>
+    <a href="https://getbootstrap.com" target="_blank"> <img src="https://img.icons8.com/color/48/000000/adobe-after-effects.png"/> </a>
 </p>
 
 <br/>
