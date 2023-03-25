@@ -7,9 +7,7 @@
 
 ## 🙋‍♂️ About Me
 
-- 👨‍💻 I’m currently working on a **Portfolio Website**
-
-- 📖 I’m currently learning **React JS**
+- 👨‍💻 I’m currently studying **Technologies and Multimedia Design**
 
 - 📧 How to reach me: **goncalocaetano2003@gmail.com**
 
