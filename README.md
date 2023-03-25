@@ -18,13 +18,14 @@
 ## 💻 Languages and Tools:
 
 <p align="left"> 
-    <a href="https://learn.microsoft.com/en-us/dotnet/csharp/" target="_blank"> <img src="https://icons8.com/icon/55251/c-sharp-logo"/> </a>
+    <h6 align="left">Development</h6>
     <a href="https://reactjs.org/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/react-native.png"/> </a>
     <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://img.icons8.com/color/48/000000/javascript.png"/> </a> 
     <a href="https://www.w3.org/html/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/html-5.png"/> </a> 
     <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/css3.png"/> </a> 
     <a href="https://getbootstrap.com" target="_blank"> <img src="https://img.icons8.com/color/48/000000/bootstrap.png"/> </a>
-    <a href="https://getbootstrap.com" target="_blank"> <img src="https://img.icons8.com/color/48/000000/adobelightroom.png"/> </a>
+    <h6 align="left">Design</h6>
+    <a href="https://getbootstrap.com" target="_blank"> <img src="https://img.icons8.com/color/48/000000/adobe-lightroom.png"/> </a>
 </p>
 
 <br/>
