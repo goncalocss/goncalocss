@@ -35,14 +35,6 @@
 </p>
 
 <br/>
-
-## 📊 My Github Stats
-<p align="justify"> 
-<br/>
-  <br/>
-</p>
-
-
 ## 📱 Connect with me:
 
 <p align="left">
