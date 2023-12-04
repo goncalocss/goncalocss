@@ -1,3 +1,9 @@
+<styles>
+    a{
+    text-decoration:none;
+    }
+</styles>
+
 <a href="#"><img width="100%" height="auto" src="https://i.imgur.com/iXuL1HG.png" height="175px"/></a>
 <div id="user-content-toc">
 <ul>
