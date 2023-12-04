@@ -39,19 +39,9 @@
 ## 📊 My Github Stats
 <p align="justify"> 
 <br/>
-    <a href="https://github.com/pimps23/github-readme-stats"><img alt="Goncalo Github Stats" src="https://github-readme-stats.vercel.app/api?username=goncalocss&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
-  <a href="https://github.com/pimps23/github-readme-stats"><img alt="Goncalo Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=goncalocss&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
   <br/>
 </p>
 
-<source
-    srcset="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=dark"
-    media="(prefers-color-scheme: dark)"
-  />
-  <source
-    srcset="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true"
-    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
-  />
 
 ## 📱 Connect with me:
 
