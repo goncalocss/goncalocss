@@ -4,7 +4,7 @@
 <summary align="center"><h1>Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Gonçalo Caetano</h1></summary>
 </ul>
 </div>
-</br>
+<br>
 
 ## 🙋‍♂️ About Me
 
@@ -14,7 +14,7 @@
 
 - ⚡ Fun fact **I love to play videogames!**
 
-<br/>
+<br>
 
 ## 💻 Languages and Tools:
 
@@ -33,8 +33,8 @@
     <h6 align="left">Video</h6>
     <a href="https://getbootstrap.com" target="_blank"> <img src="https://img.icons8.com/color/48/000000/davinci-resolve.png"/> </a>
 </p>
+<br>
 
-<br/>
 ## 📱 Connect with me:
 
 <p align="left">
