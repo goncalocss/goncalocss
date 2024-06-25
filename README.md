@@ -39,5 +39,5 @@
 
 <p align="left">
 <a href = "mailto:goncalocaetano2003@gmail.com"><img height="35" src="https://img.icons8.com/fluent/48/000000/gmail.png"/>
-<a href = "https://www.instagram.com/goncalo_seixasss/"><img height="35" src="https://img.icons8.com/fluent/48/000000/instagram-new.png"/>
+<a href = "https://www.instagram.com/goncalocss/"><img height="35" src="https://img.icons8.com/fluent/48/000000/instagram-new.png"/>
 </p>
