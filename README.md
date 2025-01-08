@@ -20,8 +20,8 @@
 
 ### Databases  
 <p align="left"> 
-    <a href="https://www.postgresql.org/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/postgresql.png" alt="PostgreSQL"/> </a>
-    <a href="https://www.mysql.com/" target="_blank"> <img src="https://img.icons8.com/fluency/48/000000/mysql-logo.png" alt="MySQL"/> </a>
+    <a href="https://www.mongodb.com/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/mongodb.png" alt="MongoDB"/> </a>
+    <a href="https://www.w3schools.com/sql/" target="_blank"> <img src="https://img.icons8.com/ios-filled/50/000000/sql.png" alt="SQL"/> </a>
 </p>
 
 ## 📱 Connect with Me
