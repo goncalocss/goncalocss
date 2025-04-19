@@ -3,6 +3,5 @@
 ## 🙋‍♂️ About Me
 
 - 👨‍💻 I’m currently studying **Technologies and Multimedia Design** at IPV.  
-- 🌱 I’m passionate about **web development** and exploring new technologies.  
-- 📧 How to reach me: **goncalocaetano2003@gmail.com**  
+- 🌱 I’m passionate about **web development** and exploring new technologies.
 - ⚡ Fun fact: **I enjoy playing video games.**  
