@@ -2,6 +2,5 @@
 
 ## 🙋‍♂️ About Me
 
-- 👨‍💻 I’m currently studying **Technologies and Multimedia Design** at IPV.  
-- 🌱 I’m passionate about **web development** and exploring new technologies.
-- ⚡ Fun fact: **I enjoy playing video games.**  
+- 🎓 I’m currently pursuing a Master’s degree in Computer Engineering at IPV. 
+- 💻 Passionate about programming and videography, I love combining creativity with technology to bring ideas to life. 
