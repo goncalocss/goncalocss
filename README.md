@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I'm Gonçalo Caetano</h1>
+<h1 align="center">Hi, I'm Gonçalo Caetano Seixas</h1>
 
 ## 🙋‍♂️ About Me
 
