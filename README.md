@@ -3,7 +3,7 @@
 > “Catchin’ bugs and fixing them”
 
 <p align="center">
- <img src="https://tenor.com/view/mega-charizard-x-gif-20783911" width="250" alt="Mega Charizard X animado" />
+ <img src="[https://tenor.com/view/mega-charizard-x-gif-20783911](https://media.tenor.com/Bs967JL9ka4AAAAj/charizard-mega-x.gif)" width="250" alt="Mega Charizard X animado" />
 </p>
 
 ### 💻 Sobre mim
