@@ -1,6 +1,6 @@
-# 🐉 Gonçalo Caetano
+# Gonçalo Caetano Seixas
 
-> “Catchin’ bugs and fixing them 🔥”
+> “Catchin’ bugs and fixing them”
 
 <img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/6.png" width="200" alt="Charizard" />
 
@@ -10,4 +10,4 @@
 - 🎮 Treinador Pokémon nível 21  
 
 ![Type: Fire](https://img.shields.io/badge/Type-Fire-orange)
-![Type: Flying](https://img.shields.io/badge/Type-Flying-lightblue
+![Type: Flying](https://img.shields.io/badge/Type-Flying-lightblue)
