@@ -3,11 +3,12 @@
 > “Catchin’ bugs and fixing them”
 
 <p align="center">
-  <img src="https://media.tenor.com/O7lwgLZz9UcAAAAi/shadow-lugia.gif" width="300" alt="Shadow Lugia animado" autoplay loop />
+  <img src="https://play.pokemonshowdown.com/sprites/ani/charizard.gif" width="200" alt="Charizard animado" />
 </p>
 
 ### 💻 Sobre mim
 - 🎓 Estudante de Engenharia Informática  
 - 💡 Apaixonado por tecnologia, desenvolvimento e inovação
-  
-![Type: Shadow](https://img.shields.io/badge/Type-Shadow-black)
+
+![Type: Fire](https://img.shields.io/badge/Type-Fire-orange)
+![Type: Flying](https://img.shields.io/badge/Type-Flying-lightblue)
