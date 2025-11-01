@@ -6,8 +6,7 @@
 
 ### 💻 Sobre mim
 - 🎓 Estudante de Engenharia Informática  
-- 💡 Apaixonado por desenvolvimento web, jogos, programação  
-- 🎮 Treinador Pokémon nível 21  
+- 💡 Apaixonado por tecnologia, desenvolvimento e inovação  
 
 ![Type: Fire](https://img.shields.io/badge/Type-Fire-orange)
 ![Type: Flying](https://img.shields.io/badge/Type-Flying-lightblue)
