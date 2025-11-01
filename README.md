@@ -2,11 +2,10 @@
 
 > “Catchin’ bugs and fixing them”
 
-<img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/6.png" width="200" alt="Charizard" />
+<img src="https://media.tenor.com/O7lwgLZz9UcAAAAi/shadow-lugia.gif" width="250" alt="Shadow Lugia animado" />
 
 ### 💻 Sobre mim
 - 🎓 Estudante de Engenharia Informática  
-- 💡 Apaixonado por tecnologia, desenvolvimento e inovação  
+- 💡 Apaixonado por tecnologia, desenvolvimento e inovação
 
-![Type: Fire](https://img.shields.io/badge/Type-Fire-orange)
-![Type: Flying](https://img.shields.io/badge/Type-Flying-lightblue)
+![Type: Shadow](https://img.shields.io/badge/Type-Shadow-black)
