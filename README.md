@@ -6,9 +6,9 @@
  <img src="https://play.pokemonshowdown.com/sprites/ani/charizard-megax.gif" width="250" alt="Mega Charizard X animado" />
 </p>
 
-### 💻 Sobre mim
-- 🎓 Estudante de Engenharia Informática  
-- 💡 Apaixonado por tecnologia, desenvolvimento e inovação
+### 💻 About Me
+- 🎓 Master’s Student in Computer Engineering – Information Systems
+- 💡 Passionate about technology, development, and innovation
 
 ![Type: Fire](https://img.shields.io/badge/Type-Fire-orange)
 ![Type: Flying](https://img.shields.io/badge/Type-Flying-lightblue)
